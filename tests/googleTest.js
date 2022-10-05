@@ -4,6 +4,7 @@ module.exports = {
       "http://www.google.com"
     );
 	browser.click("#L2AGLb");
+/* this is a comment added for test purposes on git */
     browser.end();
   }
 };
