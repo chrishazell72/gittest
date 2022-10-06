@@ -5,6 +5,7 @@ module.exports = {
     );
 	browser.click("#L2AGLb");
 /* this is a comment added for test purposes on git */
+/* and another with additional change */
     browser.end();
   }
 };
